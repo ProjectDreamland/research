@@ -7,7 +7,7 @@ This tool will not only enable you to play at modern aspect ratios, but allows y
 Go to the release page [here](https://github.com/Codeusa/Area51Patcher/releases)
 
 ### Video of Gameplay
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/t41X21aNiqg/0.jpg)](http://www.youtube.com/watch?v=t41X21aNiqg)
 
 ### Screenshot 
 
