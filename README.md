@@ -2,6 +2,11 @@
 This tool will not only enable you to play at modern aspect ratios, but allows you to play on Area 51's multiplayer mode yet again.
 
 
+### How to install
+
+Go to the release page [here](https://github.com/Codeusa/Area51Patcher/releases)
+
+### Video of Gameplay
 
 
 ### Screenshot 
