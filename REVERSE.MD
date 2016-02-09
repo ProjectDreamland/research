@@ -18,6 +18,10 @@ Stored as .NMP (Appearntly)
 
 Mixture of RAW data and Mp3, RAW data being used for mostly everything.
 
+### Textures/Images
+
+Stored as .xbmp. See tools for method of conversion/back 
+
 
 ### Unpacking Archives
 
